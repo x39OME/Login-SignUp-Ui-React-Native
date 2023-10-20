@@ -9,7 +9,7 @@
 
 - npx create-expo-app login-ui -e with-reanimated
 - npm i nativewind
-- npm i --dev tailwindcss
+- npm i --dev tailwindcss@3.3.2
 - npx tailwindcss init
 ```
 // tailwind.config.js
