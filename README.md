@@ -15,7 +15,7 @@
 ### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
 
 ## Steps
-- npx create-expo-app fruit-App-Ui
+- npx create-expo-app Login-SignUp-Ui
 - npm i nativewind
 - npm i --dev tailwindcss@3.3.2
 - npx tailwindcss init
