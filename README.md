@@ -13,6 +13,7 @@
 ### 2- [NativeWind](https://www.nativewind.dev/)
 ### 3- [React Navigation](https://reactnavigation.org/)
 ### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
+### 5- [npm install firebase](https://firebase.google.com/)
 
 ## Steps
 - npx create-expo-app Login-SignUp-Ui
@@ -25,6 +26,7 @@
 - npm i react-native-responsive-screen
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
+- npm install firebase
 - npx expo install --fix
 - npx expo install
 - expo install --fix
