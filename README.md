@@ -1,10 +1,18 @@
-# Login SignUp Ui React Native
+# Log in Sign up Ui React Native
 
 ## Preview Final Project
 
-#### Home Screen
+#### Welcom Screen
 
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/welcomecreen.jpg" style="width:350px;" alt=" Home" />
+
+#### Login Screen
+
+<img src="./preview/loginscreen.jpg" style="width:350px;" alt=" Home" />
+
+#### Sign up Screen
+
+<img src="./preview/signupscreen.jpg" style="width:350px;" alt=" Home" />
 
 
 
@@ -16,7 +24,7 @@
 ### 5- [npm install firebase](https://firebase.google.com/)
 
 ## Steps
-- npx create-expo-app Login-SignUp-Ui
+- npx create-expo-app Login-Signup-Ui
 - npm i nativewind
 - npm i --dev tailwindcss@3.3.2
 - npx tailwindcss init
