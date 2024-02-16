@@ -1,4 +1,4 @@
-# Log in Sign up Ui React Native
+# Log in Sign up Firebase Authentication React Native
 
 ## Preview Final Project
 
