@@ -2,19 +2,21 @@
 
 ## Preview Final Project
 
-#### Welcom Screen
+#### Welcome Screen
 
-<img src="./preview/welcomecreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/welcomescreen.jpg" style="width:350px;" alt="Welcome" />
 
 #### Login Screen
 
-<img src="./preview/loginscreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/loginscreen.jpg" style="width:350px;" alt="Login" />
 
 #### Sign up Screen
 
-<img src="./preview/signupscreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/signupscreen.jpg" style="width:350px;" alt="Signup" />
 
+#### Home Screen
 
+<img src="./preview/homescreen.jpg" style="width:350px;" alt="Home" />
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
@@ -23,7 +25,7 @@
 ### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
 ### 5- [npm install firebase](https://firebase.google.com/)
 
-## Steps
+## Packages
 - npx create-expo-app Login-Signup-Ui
 - npm i nativewind
 - npm i --dev tailwindcss@3.3.2
