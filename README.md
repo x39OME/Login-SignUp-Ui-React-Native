@@ -1,23 +1,5 @@
 # Log in Sign up Firebase Authentication React Native
 
-## Preview Final Project
-
-#### Welcome Screen
-
-<img src="./preview/welcomescreen.jpg" style="width:350px;" alt="Welcome" />
-
-#### Login Screen
-
-<img src="./preview/loginscreen.jpg" style="width:350px;" alt="Login" />
-
-#### Sign up Screen
-
-<img src="./preview/signupscreen.jpg" style="width:350px;" alt="Signup" />
-
-#### Home Screen
-
-<img src="./preview/homescreen.jpg" style="width:350px;" alt="Home" />
-
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
@@ -70,6 +52,25 @@ module.exports = function (api) {
   };
 };
 ```
+
+## Preview Final Project
+
+#### Welcome Screen
+
+<img src="./preview/welcomescreen.jpg" style="width:300px;" alt="Welcome" />
+
+#### Login Screen
+
+<img src="./preview/loginscreen.jpg" style="width:300px;" alt="Login" />
+
+#### Sign up Screen
+
+<img src="./preview/signupscreen.jpg" style="width:300px;" alt="Signup" />
+
+#### Home Screen
+
+<img src="./preview/homescreen.jpg" style="width:300px;" alt="Home" />
+
 
 ## Run The Project
 - Download
